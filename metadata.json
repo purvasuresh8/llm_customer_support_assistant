@@ -1,0 +1,6 @@
+{
+  "name": "AI Customer Support Chatbot Developer Sandbox",
+  "description": "An interactive workspace to engineer, test, evaluate, and simulate low-latency FastAPI endpoints for LLM-powered customer support bots.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
